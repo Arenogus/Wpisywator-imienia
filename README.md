@@ -1,1 +1,7 @@
-zachowaj plik.exe z innymi plikami, a wszystko powinno działać dobrze.
+Name injectors
+
+
+
+
+
+questions not recommended
